@@ -1,4 +1,4 @@
 static/* linguist-vendored
 docs/* linguist-documentation
-Views/* linguist-vendored
+*.*htm* linguist-vendored
 *.cs* linguist-language=C#
